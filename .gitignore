@@ -1,0 +1,8 @@
+build/
+out/
+*.o
+*.exe
+spent
+spent_tests
+.vscode/
+.idea/
